@@ -22,4 +22,4 @@ npm install
 npm run dev
 
 
-
+![Screenshot of the project](screenshots/webCalculator.png)
