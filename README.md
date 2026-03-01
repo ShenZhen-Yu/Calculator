@@ -22,4 +22,4 @@ npm install
 npm run dev
 
 
-![alt text](https://github.com/ShenZhen-Yu/Calculator/main/screenshots/webCalculator.png)
+![alt text](https://github.com/ShenZhen-Yu/Calculator/blob/main/screenshots/webCalculator.png)
