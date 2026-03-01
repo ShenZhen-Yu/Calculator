@@ -20,5 +20,6 @@ A responsive calculator web app built with React. Supports chained operations an
 ```bash
 npm install
 npm run dev
+```
 
 ![alt text](https://github.com/ShenZhen-Yu/Calculator/blob/main/screenshots/webCalculator.png)
